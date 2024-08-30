@@ -16,7 +16,7 @@ python service.py start
 # stop windows service
 ```bash
 python service.py stop
-```
+``` 
 
 # remove windows service
 ```bash
